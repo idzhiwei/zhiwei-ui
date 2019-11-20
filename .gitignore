@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+/.idea/
+.idea/.gitignore
+.idea/hello-su.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
