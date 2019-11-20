@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jamccc/hello-su/issues"
   },
-  "homepage": "https://github.com/jamccc/hello-su#readme"
+  "homepage": "https://github.com/jamccc/hello-su#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }
