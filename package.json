@@ -1,0 +1,23 @@
+{
+  "name": "jam-ui",
+  "version": "1.0.0",
+  "description": "这是一个Vue UI框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamccc/jam-ui.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "jam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamccc/jam-ui/issues"
+  },
+  "homepage": "https://github.com/jamccc/jam-ui#readme"
+}
