@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jamccc/jam-ui/issues"
   },
-  "homepage": "https://github.com/jamccc/jam-ui#readme"
+  "homepage": "https://github.com/jamccc/jam-ui#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
 }
