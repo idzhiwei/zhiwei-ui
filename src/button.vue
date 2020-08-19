@@ -2,8 +2,10 @@
     <button class="j-button">按钮</button>
 </template>
 
-<script lang="ts">
-    export default{}
+<script lang="js">
+    export default{
+        name: 'Button '
+    }
 </script>
 
 <style lang="scss" scoped>

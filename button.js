@@ -3,3 +3,4 @@ Vue.component('j-button',{
         <button class="j-button">按钮</button>
     `
 })
+
