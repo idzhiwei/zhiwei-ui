@@ -1,5 +1,7 @@
 <template>
-    <button class="j-button">按钮</button>
+    <button class="j-button">
+        <slot></slot>
+    </button>
 </template>
 
 <script lang="js">
