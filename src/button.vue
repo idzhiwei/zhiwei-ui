@@ -1,13 +1,11 @@
 <template>
     <button class="z-button">
-        <slot></slot>
+       按钮
     </button>
 </template>
 
 <script lang="js">
-    export default{
-        name: 'Button '
-    }
+    export default{}
 </script>
 
 <style lang="scss" scoped>

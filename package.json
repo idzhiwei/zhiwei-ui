@@ -1,7 +1,7 @@
 {
-  "name": "jam-ui",
+  "name": "知微UI",
   "version": "1.0.0",
-  "description": "这是一个Vue UI框架",
+  "description": "这是一个贴心的Vue UI框架",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,12 +14,12 @@
     "vue",
     "ui"
   ],
-  "author": "jam",
+  "author": "zhiwei",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jamccc/jam-ui/issues"
+    "url": "https://github.com/i-weixhi/zhiweiUI/issues"
   },
-  "homepage": "https://github.com/jamccc/jam-ui#readme",
+  "homepage": "https://github.com/i-weixhi/zhiweiUI#readme",
   "dependencies": {
     "vue": "^2.6.11",
     "vue-hot-reload-api": "^2.3.4"
@@ -32,6 +32,6 @@
     "vue-template-compiler": "^2.6.11"
   },
   "alias": {
-    "vue" : "./node_modules/vue/dist/vue.common.js"
+    "vue": "./node_modules/vue/dist/vue.common.js"
   }
 }
