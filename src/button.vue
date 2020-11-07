@@ -1,5 +1,5 @@
 <template>
-    <button class="j-button">
+    <button class="z-button">
         <slot></slot>
     </button>
 </template>
@@ -11,7 +11,7 @@
 </script>
 
 <style lang="scss" scoped>
-    .j-button{
+    .z-button{
         font-size: var(--font-size);
         height: var(--button-height);
         padding: 0 1em;

@@ -1,6 +1,6 @@
-Vue.component('j-button',{
+Vue.component('z-button',{
     template: `
-        <button class="j-button">按钮</button>
+        <button class="z-button">按钮</button>
     `
 })
 
