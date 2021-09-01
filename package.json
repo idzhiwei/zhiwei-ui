@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/i-zhiwei/zhiweiUI/issues"
   },
-  "homepage": "https://github.com/i-zhiwei/zhiweiUI#readme"
+  "homepage": "https://github.com/i-zhiwei/zhiweiUI#readme",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
 }
